@@ -89,11 +89,3 @@ Contribuições são bem-vindas! Se quiser sugerir melhorias ou novas funcionali
 2. Crie uma branch para sua feature (`git checkout -b feature/nome-da-feature`).
 3. Faça commits das suas alterações (`git commit -m 'Adiciona ...'`).
 4. Envie um pull request.
-
-## 📞 Contato
-
-Se quiser entrar em contato comigo: leonard0antonio (você pode colocar seu e-mail ou perfil GitHub).
-
-```
--
-
